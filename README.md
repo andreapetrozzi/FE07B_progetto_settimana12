@@ -5,9 +5,13 @@ SPA di gestione dei film con Angular, FakeBackend Server e FakeAPI.
 Da installare sul terminale:
 
 npm i
-npm i boostrap 
+npm i boostrap
 npm install json-server
 npm run full-stack
+
+
+![01](https://user-images.githubusercontent.com/98649610/162765442-6f5f827d-8bfb-4fdc-a5ef-4442a7bee74c.JPG)
+![02](https://user-images.githubusercontent.com/98649610/162765477-9f622978-aa31-407d-becf-78167929f289.JPG)
 
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.2.3.
