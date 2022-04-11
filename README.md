@@ -1,4 +1,14 @@
-# Progetto12
+# FE07B_progetto_settimana12
+
+SPA di gestione dei film con Angular, FakeBackend Server e FakeAPI.
+
+Da installare sul terminale:
+
+npm i
+npm i boostrap 
+npm install json-server
+npm run full-stack
+
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.2.3.
 
